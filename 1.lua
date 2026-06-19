@@ -43,7 +43,7 @@ end)
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 repeat wait() until game:IsLoaded()
 local Window = Fluent:CreateWindow({
-    Title = "TBoy Roblox Tổng Hợp",
+    Title = "Roblox Tổng Hợp",
     SubTitle = "Blox Fruit",
     TabWidth = 157,
     Size = UDim2.fromOffset(500, 350),
